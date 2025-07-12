@@ -32,7 +32,7 @@ Aplicación backend desarrollada en Java con Spring Boot para gestionar tareas, 
 Configura la conexión a la base de datos MySQL en `src/main/resources/application.properties`:
 
 ## Cómo ejecutar
-- el repositorio
+- Clona el repositorio
 - Abre el proyecto en IntelliJ IDEA
 - Configura la base de datos en application.properties
 - Ejecuta la clase TaskmanagerApplication
